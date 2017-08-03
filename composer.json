@@ -1,0 +1,8 @@
+{
+    "name": "johncenn/composer_demo",
+    "description": "test composer project",
+    "type": "project",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {}
+}
