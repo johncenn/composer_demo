@@ -1,8 +1,12 @@
 {
     "name": "johncenn/composer_demo",
-    "description": "test composer project",
+    "description": "test project",
     "type": "project",
     "license": "MIT",
+    "authors":[{
+    	"name":"johncenn",
+    	"email":"923843894@qq.com"
+    }],
     "minimum-stability": "dev",
     "require": {}
 }
