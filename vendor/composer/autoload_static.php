@@ -19,6 +19,10 @@ class ComposerStaticInit2a3aa48fd37fe37da081b5b59c654d31
         array (
             'core\\' => 5,
         ),
+        'G' => 
+        array (
+            'Gregwar\\Captcha\\' => 16,
+        ),
     );
 
     public static $prefixDirsPsr4 = array (
@@ -29,6 +33,10 @@ class ComposerStaticInit2a3aa48fd37fe37da081b5b59c654d31
         'core\\' => 
         array (
             0 => __DIR__ . '/../..' . '/core',
+        ),
+        'Gregwar\\Captcha\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/gregwar/captcha',
         ),
     );
 
